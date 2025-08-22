@@ -12,11 +12,11 @@ I have a passion for problem-solving and pioneering first-principle thinking, dr
 
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
 
-Feel free to connect with me @iampavangandhi for all things tech or just to say hello! Let's shape the future of tech together. 🌟
+Feel free to connect with me bolafawzy88@gmail.com for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
-Joined Github **6** years ago.
+Joined Github **1** years ago.
 
-Since then I pushed **3546**+ commits, opened **229**+ issues, submitted **581**+ pull requests, created **20**+ gists and contributed to **6**+ public repositories.
+Since then I pushed **100**+ commits, opened **20**+ issues, submitted **20**+ pull requests, created **1**+ gists and contributed to **1**+ public repositories.
 
 <hr>
 <h3 align="left">✨ Random Dev Quote::</h3>
